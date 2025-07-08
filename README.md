@@ -1,5 +1,5 @@
 # Styled_Profile_Card
-## Date: 08.08.2025
+## Date: 08.07.2025
 
 ## Objective:
 To practice HTML and CSS fundamentals by designing a visually appealing profile card that demonstrates the use of background color, typography, spacing, and layout alignment techniques.
@@ -154,9 +154,10 @@ hr {
 ```
 
 ## Output:
-![Uploading Screenshot 2025-07-08 115256.png…]()
+![Screenshot 2025-07-08 115256](https://github.com/user-attachments/assets/28f1e68a-6ac9-4d1b-a036-09283c2a0727)
+
 
 ## Live WebPage:
-
+https://roshanr-git.github.io/Styled_Profile/
 ## Result:
 A visually appealing profile card that demonstrates the use of background color, typography, spacing, and layout alignment techniques is designed.
