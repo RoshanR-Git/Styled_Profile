@@ -1,0 +1,80 @@
+/* Base styles */
+body {
+  background-color: rgb(239, 235, 235);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Profile Card Container */
+.profile-card {
+  max-width: 800px;
+  margin: auto;
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+.profile-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-header h1 {
+  font-size: 48px;
+  color: #333;
+}
+
+.profile-header h2 {
+  font-size: 28px;
+  color: #666;
+  margin: 5px 0;
+}
+
+.profile-header h3 {
+  font-size: 20px;
+  color: #888;
+  margin-top: 5px;
+}
+
+/* Image */
+.profile-image {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 20px;
+}
+
+/* Bio */
+.bio {
+  padding: 20px;
+  line-height: 1.6;
+  background-color: #d3e0b3;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+/* Section Styles */
+.profile-section {
+  margin-top: 30px;
+}
+
+.profile-section h2 {
+  color: #2c3e50;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.profile-section ul {
+  padding-left: 20px;
+  line-height: 1.6;
+}
+
+/* Horizontal Rule Styling */
+hr {
+  border: none;
+  height: 1px;
+  background-color: #ccc;
+  margin: 30px 0;
+}
